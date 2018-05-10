@@ -41,3 +41,5 @@ This works on the S1 model of the Square card reader, which consists of a simple
 
 
 "Since demonstrating its first Square Reader device, the model S1, at the 2010 SXSW conference [7], Square has released three additional revisions of the device [8][9][10]. The Square Reader was criticized as insecure for lacking point-of-swipe encryption until the later S3 and S4 models [11]. <a href="https://www.blackhat.com/docs/us-15/materials/us-15-Mellen-Mobile-Point-Of-Scam-Attacking-The-Square-Reader-wp.pdf">https://www.blackhat.com/docs/us-15/materials/us-15-Mellen-Mobile-Point-Of-Scam-Attacking-The-Square-Reader-wp.pdf</a>
+
+Read more: http://andybromberg.com/credit-cards/
