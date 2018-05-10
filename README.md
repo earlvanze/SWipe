@@ -29,6 +29,8 @@ To build on the terminal, simply run:
 ```
 qmake && make
 ```
+Then type ```open -a MagRead.app``` or double-click MagRead.app to run it.
+
 
 You may also open the project file in Qt Creator to build.
 
